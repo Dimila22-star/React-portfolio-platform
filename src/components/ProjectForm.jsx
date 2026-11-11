@@ -11,7 +11,6 @@ function ProjectForm({ onAdd }) {
     
     onAdd({ title, image, description, link })
     
-    // Clear inputs
     setTitle('')
     setImage('')
     setDescription('')
