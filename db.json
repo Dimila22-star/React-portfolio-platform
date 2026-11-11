@@ -1,0 +1,18 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "ErrandLink Web App",
+      "description": "API integration with local JSON mock database",
+      "image": "",
+      "link": "#"
+    },
+    {
+      "id": "2",
+      "title": "Rental Tracker",
+      "description": "Java multi-user rental application with BCrypt validation",
+      "image": "",
+      "link": "#"
+    }
+  ]
+}
